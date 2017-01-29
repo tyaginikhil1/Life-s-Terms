@@ -1,4 +1,4 @@
-# Life-s-Terms
+# Life's-Terms
 This is my first Repository File on Github Hello everyone!
   <html>
   <head>Hello</head>
